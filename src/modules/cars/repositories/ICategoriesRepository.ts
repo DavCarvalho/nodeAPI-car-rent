@@ -1,6 +1,6 @@
 //Contrato
 
-import { Category } from "../entities/Category";
+import { Category } from "../infra/typeorm/entities/Category";
 
 //DTO
 interface ICreateCategoryDTO {
